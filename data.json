@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "firstName": "GIDIGI",
   "lastName": "GEETHA",
   "phone": "8688860859",
@@ -22,5 +22,11 @@
   ],
   "village": "doultabad-hathnoora-sangareddy-telangana-502296",
   "about": "12+ years of dual teaching expertise\nSpecialized in Electrical & Electronics Engineering (EEE)\nProven track record in higher education and school pedagogy\nExpert in curriculum development and technical instruction\nPassionate educator committed to academic excellence",
-  "social": [{ "name": "YouTube", "url": "https://www.youtube.com/@pellimelamindia" }, { "name": "WhatsApp", "url": "https://wa.me/918688860859" }]
+  "social": [{ "name": "YouTube", "url": "https://www.youtube.com/@pellimelamindia" }, { "name": "WhatsApp", "url": "https://wa.me/918688860859" }],
+  "slides": [
+    { "img": "https://yt3.ggpht.com/Pt31lfiWww7iVhMHY6aQuCvtaHdBozXfBSucrQr28F1k1xWLxSzqA-QFQ7Fb0CEjRsI__7HiQQ8i=s800-rw-nd-v1", "link": "https://vidhwaan.com" },
+    { "img": "https://yt3.ggpht.com/c1ppFkOP5qdzOdPd9Y_5mSPivOhi19X4qbBVux4uxksBvoaqCM5svNHgoOXCqKHF4ZiTjHtZndov6Ng=s800-rw-nd-v1", "link": "" },
+    { "img": "https://yt3.ggpht.com/bHJDuPBN2o0z_8iYG8Kx2v0TiDN3TYcyKWVCc2spxIuYylCb49sggT9r3nOu_TRM6wPI7--OcWwwSQ=s800-c-fcrop64=1,25990000da66ffff-rw-nd-v1", "link": "" }
+ 
+  ]
 }
