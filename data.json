@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "firstName": "GIDIGI",
   "lastName": "GEETHA",
   "phone": "8688860859",
@@ -11,10 +11,9 @@
     "village": "doultabad-hathnoora-sangareddy-telangana-502296"
   },
   "gallery": [
-    "https://yt3.ggpht.com/Pt31lfiWww7iVhMHY6aQuCvtaHdBozXfBSucrQr28F1k1xWLxSzqA-QFQ7Fb0CEjRsI__7HiQQ8i=s800-rw-nd-v1",
-    "https://yt3.ggpht.com/c1ppFkOP5qdzOdPd9Y_5mSPivOhi19X4qbBVux4uxksBvoaqCM5svNHgoOXCqKHF4ZiTjHtZndov6Ng=s800-rw-nd-v1",
-    "https://yt3.ggpht.com/bHJDuPBN2o0z_8iYG8Kx2v0TiDN3TYcyKWVCc2spxIuYylCb49sggT9r3nOu_TRM6wPI7--OcWwwSQ=s800-c-fcrop64=1,25990000da66ffff-rw-nd-v1"
-    
+    "https://yt3.ggpht.com/Pt31lfiWww7iVhMHY6aQuCvtaHdBozXfBSucrQr28F1k1xWLxSzqA-QFQ7Fb0CEjRsI__7HiQQ8i=s800",
+    "https://yt3.ggpht.com/c1ppFkOP5qdzOdPd9Y_5mSPivOhi19X4qbBVux4uxksBvoaqCM5svNHgoOXCqKHF4ZiTjHtZndov6Ng=s800",
+    "https://yt3.ggpht.com/bHJDuPBN2o0z_8iYG8Kx2v0TiDN3TYcyKWVCc2spxIuYylCb49sggT9r3nOu_TRM6wPI7--OcWwwSQ=s800"
   ],
   "videos": [
     "https://www.youtube.com/watch?v=COmFeL0PMuE",
@@ -22,60 +21,69 @@
   ],
   "village": "doultabad-hathnoora-sangareddy-telangana-502296",
   "about": "12+ years of dual teaching expertise\nSpecialized in Electrical & Electronics Engineering (EEE)\nProven track record in higher education and school pedagogy\nExpert in curriculum development and technical instruction\nPassionate educator committed to academic excellence",
-  "social": [{ "name": "YouTube", "url": "https://www.youtube.com/@pellimelamindia" }, { "name": "WhatsApp", "url": "https://wa.me/918688860859" }],
-  "slides": [
-    { "img": "https://yt3.ggpht.com/Pt31lfiWww7iVhMHY6aQuCvtaHdBozXfBSucrQr28F1k1xWLxSzqA-QFQ7Fb0CEjRsI__7HiQQ8i=s800-rw-nd-v1", "link": "https://vidhwaan.com" },
-    { "img": "https://yt3.ggpht.com/c1ppFkOP5qdzOdPd9Y_5mSPivOhi19X4qbBVux4uxksBvoaqCM5svNHgoOXCqKHF4ZiTjHtZndov6Ng=s800-rw-nd-v1", "link": "" },
-    { "img": "https://yt3.ggpht.com/bHJDuPBN2o0z_8iYG8Kx2v0TiDN3TYcyKWVCc2spxIuYylCb49sggT9r3nOu_TRM6wPI7--OcWwwSQ=s800-c-fcrop64=1,25990000da66ffff-rw-nd-v1", "link": "" }
- 
+  "social": [
+    { "name": "YouTube", "url": "https://www.youtube.com/@pellimelamindia" },
+    { "name": "WhatsApp", "url": "https://wa.me/918688860859" }
   ],
-
+  "slides": [
+    {
+      "img": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=800&q=80",
+      "link": "https://vidhwaan.com"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+      "link": ""
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+      "link": ""
+    }
+  ],
 
   "business": {
     "slides": [
       {
-        "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+        "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80",
         "link": "https://vidhwaan.com"
       },
       {
-        "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+        "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=800&q=80",
         "link": ""
       },
       {
-        "img": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
+        "img": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?auto=format&fit=crop&w=800&q=80",
         "link": ""
       },
       {
-        "img": "https://images.unsplash.com/photo-1521305916504-4a1121188589",
+        "img": "https://images.unsplash.com/photo-1521305916504-4a1121188589?auto=format&fit=crop&w=800&q=80",
         "link": ""
       },
       {
-        "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061",
+        "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=800&q=80",
         "link": ""
       }
     ],
 
     "categories": [
-
       {
         "name": "Starters",
-        "img": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "img": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=800&q=80",
         "items": [
           {
             "name": "Veg Spring Rolls",
-            "img": "https://images.unsplash.com/photo-1604908554025-ff5c1b6c4d0e",
+            "img": "https://images.unsplash.com/photo-1601315488950-3b5047998b38?auto=format&fit=crop&w=800&q=80",
             "price": 120,
             "weight": "6 pcs"
           },
           {
             "name": "Paneer Tikka",
-            "img": "https://images.unsplash.com/photo-1605478371310-a9f1e96b2b2c",
+            "img": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
             "price": 180,
             "weight": "250g"
           },
           {
             "name": "Chicken Wings",
-            "img": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+            "img": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=800&q=80",
             "price": 220,
             "weight": "6 pcs"
           }
@@ -84,23 +92,23 @@
 
       {
         "name": "Main Course",
-        "img": "https://images.unsplash.com/photo-1600891964092-4316c288032e",
+        "img": "https://images.unsplash.com/photo-1600891964092-4316c288032e?auto=format&fit=crop&w=800&q=80",
         "items": [
           {
             "name": "Butter Chicken",
-            "img": "https://images.unsplash.com/photo-1604908177522-402f8d49bfa2",
+            "img": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
             "price": 280,
             "weight": "500g"
           },
           {
             "name": "Veg Biryani",
-            "img": "https://images.unsplash.com/photo-1604909053259-df9d9a3cdb0c",
+            "img": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=800&q=80",
             "price": 200,
             "weight": "Full"
           },
           {
             "name": "Paneer Butter Masala",
-            "img": "https://images.unsplash.com/photo-1605478371235-ffb6e2a2a3c6",
+            "img": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80",
             "price": 240,
             "weight": "500g"
           }
@@ -109,23 +117,23 @@
 
       {
         "name": "Snacks",
-        "img": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+        "img": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
         "items": [
           {
             "name": "French Fries",
-            "img": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5",
+            "img": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?auto=format&fit=crop&w=800&q=80",
             "price": 90,
             "weight": "Medium"
           },
           {
             "name": "Cheese Burger",
-            "img": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+            "img": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
             "price": 150,
             "weight": "1 pc"
           },
           {
             "name": "Pizza Slice",
-            "img": "https://images.unsplash.com/photo-1548365328-9f547fb0953d",
+            "img": "https://images.unsplash.com/photo-1548365328-9f547fb0953d?auto=format&fit=crop&w=800&q=80",
             "price": 120,
             "weight": "1 slice"
           }
@@ -134,23 +142,23 @@
 
       {
         "name": "Drinks",
-        "img": "https://images.unsplash.com/photo-1544145945-f90425340c7e",
+        "img": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=800&q=80",
         "items": [
           {
             "name": "Cold Coffee",
-            "img": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+            "img": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
             "price": 120,
-           "weight": "300ml"
+            "weight": "300ml"
           },
           {
             "name": "Fresh Juice",
-            "img": "https://images.unsplash.com/photo-1551024709-8f23befc6c5b",
+            "img": "https://images.unsplash.com/photo-1551024709-8f23befc6c5b?auto=format&fit=crop&w=800&q=80",
             "price": 100,
             "weight": "250ml"
           },
           {
             "name": "Soft Drink",
-            "img": "https://images.unsplash.com/photo-1580910051074-3eb694886505",
+            "img": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80",
             "price": 60,
             "weight": "500ml"
           }
@@ -159,30 +167,28 @@
 
       {
         "name": "Desserts",
-        "img": "https://images.unsplash.com/photo-1551024601-bec78aea704b",
+        "img": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=800&q=80",
         "items": [
           {
             "name": "Chocolate Cake",
-            "img": "https://images.unsplash.com/photo-1599785209707-28b6a6cdd6c2",
+            "img": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80",
             "price": 150,
             "weight": "1 slice"
           },
           {
             "name": "Ice Cream",
-            "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb",
+            "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=800&q=80",
             "price": 80,
             "weight": "2 scoops"
           },
           {
             "name": "Gulab Jamun",
-            "img": "https://images.unsplash.com/photo-1600891963935-5d3f3d9d5c1c",
+            "img": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
             "price": 90,
             "weight": "2 pcs"
           }
         ]
       }
-
     ]
   }
-  
 }
