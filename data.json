@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "firstName": "GIDIGI",
   "lastName": "GEETHA",
   "phone": "8688860859",
@@ -28,7 +28,7 @@
   "slides": [
     {
       "img": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=800&q=80",
-      "link": "https://vidhwaan.com"
+      "link": ""
     },
     {
       "img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
@@ -133,7 +133,7 @@
           },
           {
             "name": "Pizza Slice",
-            "img": "https://images.unsplash.com/photo-1548365328-9f547fb0953d?auto=format&fit=crop&w=800&q=80",
+            "img": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=800&q=80",
             "price": 120,
             "weight": "1 slice"
           }
@@ -152,7 +152,7 @@
           },
           {
             "name": "Fresh Juice",
-            "img": "https://images.unsplash.com/photo-1551024709-8f23befc6c5b?auto=format&fit=crop&w=800&q=80",
+            "img": "https://images.unsplash.com/photo-1572441713132-51c75654db73?auto=format&fit=crop&w=800&q=80",
             "price": 100,
             "weight": "250ml"
           },
