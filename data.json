@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "firstName": "GIDIGI",
   "lastName": "GEETHA",
   "phone": "8688860859",
@@ -152,7 +152,7 @@
           },
           {
             "name": "Fresh Juice",
-            "img": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?auto=format&fit=crop&w=800&q=80",
+            "img": "https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=800&q=80",
             "price": 100,
             "weight": "250ml"
           },
