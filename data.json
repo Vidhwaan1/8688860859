@@ -28,5 +28,161 @@
     { "img": "https://yt3.ggpht.com/c1ppFkOP5qdzOdPd9Y_5mSPivOhi19X4qbBVux4uxksBvoaqCM5svNHgoOXCqKHF4ZiTjHtZndov6Ng=s800-rw-nd-v1", "link": "" },
     { "img": "https://yt3.ggpht.com/bHJDuPBN2o0z_8iYG8Kx2v0TiDN3TYcyKWVCc2spxIuYylCb49sggT9r3nOu_TRM6wPI7--OcWwwSQ=s800-c-fcrop64=1,25990000da66ffff-rw-nd-v1", "link": "" }
  
-  ]
+  ],
+
+
+  "business": {
+    "slides": [
+      {
+        "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+        "link": "https://vidhwaan.com"
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+        "link": ""
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
+        "link": ""
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1521305916504-4a1121188589",
+        "link": ""
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061",
+        "link": ""
+      }
+    ],
+
+    "categories": [
+
+      {
+        "name": "Starters",
+        "img": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "items": [
+          {
+            "name": "Veg Spring Rolls",
+            "img": "https://images.unsplash.com/photo-1604908554025-ff5c1b6c4d0e",
+            "price": 120,
+            "weight": "6 pcs"
+          },
+          {
+            "name": "Paneer Tikka",
+            "img": "https://images.unsplash.com/photo-1605478371310-a9f1e96b2b2c",
+            "price": 180,
+            "weight": "250g"
+          },
+          {
+            "name": "Chicken Wings",
+            "img": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+            "price": 220,
+            "weight": "6 pcs"
+          }
+        ]
+      },
+
+      {
+        "name": "Main Course",
+        "img": "https://images.unsplash.com/photo-1600891964092-4316c288032e",
+        "items": [
+          {
+            "name": "Butter Chicken",
+            "img": "https://images.unsplash.com/photo-1604908177522-402f8d49bfa2",
+            "price": 280,
+            "weight": "500g"
+          },
+          {
+            "name": "Veg Biryani",
+            "img": "https://images.unsplash.com/photo-1604909053259-df9d9a3cdb0c",
+            "price": 200,
+            "weight": "Full"
+          },
+          {
+            "name": "Paneer Butter Masala",
+            "img": "https://images.unsplash.com/photo-1605478371235-ffb6e2a2a3c6",
+            "price": 240,
+            "weight": "500g"
+          }
+        ]
+      },
+
+      {
+        "name": "Snacks",
+        "img": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+        "items": [
+          {
+            "name": "French Fries",
+            "img": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5",
+            "price": 90,
+            "weight": "Medium"
+          },
+          {
+            "name": "Cheese Burger",
+            "img": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+            "price": 150,
+            "weight": "1 pc"
+          },
+          {
+            "name": "Pizza Slice",
+            "img": "https://images.unsplash.com/photo-1548365328-9f547fb0953d",
+            "price": 120,
+            "weight": "1 slice"
+          }
+        ]
+      },
+
+      {
+        "name": "Drinks",
+        "img": "https://images.unsplash.com/photo-1544145945-f90425340c7e",
+        "items": [
+          {
+            "name": "Cold Coffee",
+            "img": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+            "price": 120,
+           "weight": "300ml"
+          },
+          {
+            "name": "Fresh Juice",
+            "img": "https://images.unsplash.com/photo-1551024709-8f23befc6c5b",
+            "price": 100,
+            "weight": "250ml"
+          },
+          {
+            "name": "Soft Drink",
+            "img": "https://images.unsplash.com/photo-1580910051074-3eb694886505",
+            "price": 60,
+            "weight": "500ml"
+          }
+        ]
+      },
+
+      {
+        "name": "Desserts",
+        "img": "https://images.unsplash.com/photo-1551024601-bec78aea704b",
+        "items": [
+          {
+            "name": "Chocolate Cake",
+            "img": "https://images.unsplash.com/photo-1599785209707-28b6a6cdd6c2",
+            "price": 150,
+            "weight": "1 slice"
+          },
+          {
+            "name": "Ice Cream",
+            "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb",
+            "price": 80,
+            "weight": "2 scoops"
+          },
+          {
+            "name": "Gulab Jamun",
+            "img": "https://images.unsplash.com/photo-1600891963935-5d3f3d9d5c1c",
+            "price": 90,
+            "weight": "2 pcs"
+          }
+        ]
+      }
+
+    ]
+  }
+  
 }
