@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "firstName": "GIDIGI",
   "lastName": "GEETHA",
   "phone": "8688860859",
@@ -56,6 +56,10 @@
       },
       {
         "img": "https://images.unsplash.com/photo-1521305916504-4a1121188589?auto=format&fit=crop&w=800&q=80",
+        "link": ""
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=800&q=80",
         "link": ""
       },
       {
